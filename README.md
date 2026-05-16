@@ -166,7 +166,7 @@ Ce métier consiste à structurer la gouvernance de la sécurité, évaluer les 
 
 ## La filière à l'IFRI
 
-L'Institut de Formation et de Recherche en Informatique (IFRI) propose, au sein de l'Université d'Abomey-Calavi (UAC) au Bénin, une **Licence Professionnelle en Sécurité Informatique**. La formation se déroule sur trois années (L1, L2, L3) réparties en six semestres, pour un total de 180 crédits.
+L'[Institut de Formation et de Recherche en Informatique (IFRI)](https://ifri-uac.bj/) propose, au sein de l'[Université d'Abomey-Calavi (UAC)](https://uac.bj/) au Bénin, une **Licence Professionnelle en Sécurité Informatique**.. La formation se déroule sur trois années (L1, L2, L3) réparties en six semestres, pour un total de 180 crédits.
 
 ### Une formation professionnalisante
 
@@ -220,18 +220,18 @@ Les catégories classiques en CTF couvrent l'essentiel des domaines techniques d
 
 Plusieurs plateformes en ligne permettent de s'entraîner toute l'année, à son rythme, sur des défis allant du niveau débutant au niveau expert :
 
-- **TryHackMe** — orienté apprentissage progressif, parfait pour débuter
-- **Hack The Box** — défis plus complexes, machines à compromettre en autonomie
-- **PicoCTF** — CTF permanent éducatif, géré par l'université Carnegie Mellon
-- **Root-Me** — plateforme francophone très complète
-- **OverTheWire** — *wargames* axés sur les fondamentaux Linux et binaire
-- **PortSwigger Web Security Academy** — référence pour la sécurité web
-- **CryptoHack** — défis de cryptographie
-- **HackerOne CTF / Bugcrowd University** — proches du contexte *bug bounty*
+- [**TryHackMe**](https://tryhackme.com/) — orienté apprentissage progressif, parfait pour débuter
+- [**Hack The Box**](https://www.hackthebox.com/) — défis plus complexes, machines à compromettre en autonomie
+- [**PicoCTF**](https://picoctf.org/) — CTF permanent éducatif, géré par l'université Carnegie Mellon
+- [**Root-Me**](https://www.root-me.org/) — plateforme francophone très complète
+- [**OverTheWire**](https://overthewire.org/) — *wargames* axés sur les fondamentaux Linux et binaire
+- [**PortSwigger Web Security Academy**](https://portswigger.net/web-security) — référence pour la sécurité web
+- [**CryptoHack**](https://cryptohack.org/) — défis de cryptographie
+- [**Hacker101 (HackerOne)**](https://www.hacker101.com/) et [**Bugcrowd University**](https://www.bugcrowd.com/hackers/bugcrowd-university/) — proches du contexte *bug bounty*
 
 ### Le HackerLab au Bénin
 
-Le **HackerLab** est la compétition nationale de cybersécurité du Bénin. Initiée par Ouanilo Medegan Fagla, elle est organisée par l'**Agence des Systèmes d'Information et du Numérique (ASIN)**, anciennement ANSSI. La première édition a eu lieu en 2017.
+Le [**HackerLab**](https://hackerlab.bj/) est la compétition nationale de cybersécurité du Bénin. Initiée par Ouanilo Medegan Fagla, elle est organisée par l'**Agence des Systèmes d'Information et du Numérique (ASIN)**, anciennement ANSSI. La première édition a eu lieu en 2017.
 
 Le format est celui du Capture the Flag, dans un environnement simulé où les participants résolvent des défis de cybersécurité. Une phase de qualification en ligne est suivie d'une finale intensive de 48 heures à Cotonou. Les épreuves couvrent toutes les grandes catégories techniques : forensique numérique, stéganographie, rétro-ingénierie, exploitation binaire et applicative, programmation, auxquelles s'ajoutent l'OSINT et la cryptographie selon les éditions.
 
@@ -243,7 +243,7 @@ Pour un étudiant à l'IFRI, c'est l'un des rendez-vous les plus stratégiques d
 
 D'autres événements de cybersécurité existent à l'échelle régionale et continentale :
 
-- **Cyber Africa Forum (CAF)** — événement panafricain en marge duquel se déroule désormais le HackerLab
+- [**Cyber Africa Forum (CAF)**](https://cyberafricaforum.com) — événement panafricain en marge duquel se déroule désormais le HackerLab
 - **CTF nationaux** organisés dans plusieurs pays voisins (Togo, Côte d'Ivoire, etc.)
 - **Compétitions régionales CEDEAO** dans le cadre des programmes de coopération (OCWAR-C, etc.)
 
@@ -251,17 +251,17 @@ D'autres événements de cybersécurité existent à l'échelle régionale et co
 
 Pour avoir une vue plus large, quelques compétitions internationales de référence :
 
-- **DEFCON CTF** — la finale du plus prestigieux CTF mondial, à Las Vegas chaque été
-- **Google CTF** — CTF annuel organisé par Google
-- **PlaidCTF** — organisé par les Plaid Parliament of Pwning (Carnegie Mellon)
-- **CSAW CTF** — organisé par l'université de New York
-- **Hack The Box University CTF** — réservé aux étudiants
+- [**DEFCON CTF**](https://defcon.org/) — la finale du plus prestigieux CTF mondial, à Las Vegas chaque été
+- [**Google CTF**](https://capturetheflag.withgoogle.com/) — CTF annuel organisé par Google
+- [**PlaidCTF**](https://plaidctf.com/) — organisé par les Plaid Parliament of Pwning (Carnegie Mellon)
+- [**CSAW CTF**](https://www.csaw.io/) — organisé par l'université de New York
+- [**Hack The Box University CTF**](https://www.hackthebox.com/events/htb-uni-ctf-2024) — réservé aux étudiants
 
-Le site **CTFtime.org** recense l'essentiel des CTF internationaux et publie un classement mondial des équipes.
+Le site [**CTFtime.org**](https://ctftime.org/) recense l'essentiel des CTF internationaux et publie un classement mondial des équipes.
 
 ### Bug bounty
 
-En parallèle des CTF, les programmes de ***bug bounty*** permettent à des chercheurs en sécurité de signaler des vulnérabilités à des entreprises en échange de récompenses financières. Les plateformes principales sont **HackerOne**, **Bugcrowd**, **Intigriti** et **YesWeHack** (côté francophone). Pour un débutant, c'est une pratique exigeante : il vaut mieux d'abord se faire les dents sur des CTF et des labs avant de se lancer dans des programmes réels.
+En parallèle des CTF, les programmes de ***bug bounty*** permettent à des chercheurs en sécurité de signaler des vulnérabilités à des entreprises en échange de récompenses financières. Les plateformes principales sont [**HackerOne**](https://www.hackerone.com/), [**Bugcrowd**](https://www.bugcrowd.com/), [**Intigriti**](https://www.intigriti.com/) et [**YesWeHack**](https://www.yeswehack.com/) (côté francophone). Pour un débutant, c'est une pratique exigeante : il vaut mieux d'abord se faire les dents sur des CTF et des labs avant de se lancer dans des programmes réels.
 
 ## Structure du repo
 
