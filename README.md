@@ -6,7 +6,7 @@ Je documente ici ma préparation, puis mes notes au fil de la formation. Le repo
 
 ## Structure
 
-- `L1/` - Première année (en cours)
+- [`L1/`](L1) - Première année (en cours)
 - `L2/` - Deuxième année (à venir)
 - `L3/` - Troisième année (à venir)
 
